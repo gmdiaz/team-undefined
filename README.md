@@ -1,7 +1,7 @@
-![Undefined Logo] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/UndefinedLogo.jpg)
+![Undefined Logo] (https://github.com/gmdiaz/team-undefined/blob/master/docs/UndefinedLogo.jpg)
 
 #Project Overview  
-![Overlap Logo] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/proposal/OOverlap.png)
+![Overlap Logo] (https://github.com/gmdiaz/team-undefined/blob/master/docs/proposal/OOverlap.png)
 
 Overlap is a multi-platform application that allows users to detect overlaps between their schedule and their friend's schedule. In that way, individuals can find the perfect time to meet for any given purpose. With the "Priority" feature, a  user can prioritize their free time. Overlap will then take their priorities in to consideration when comparing the schedules.
 
@@ -9,27 +9,27 @@ Overlap is great for college students and professionals alike. It will include c
 
 #Original Proposal  
 **Documents for Review:**  
-- [proposal.md](https://github.com/umass-cs-326/team-undefined/blob/master/docs/proposal/proposal.md) : The proposal markdown file for review
-- [proposal.pdf](https://github.com/umass-cs-326/team-undefined/blob/master/docs/proposal/proposal.pdf) : The proposal presentation for review
+- [proposal.md](https://github.com/gmdiaz/team-undefined/blob/master/docs/proposal/proposal.md) : The proposal markdown file for review
+- [proposal.pdf](https://github.com/gmdiaz/team-undefined/blob/master/docs/proposal/proposal.pdf) : The proposal presentation for review
 
 #Functional Specification  
 **Documents for Review:**  
-- [fspec.md](https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/fspec.md) : The functional specification markdown file for review
-- [fpsec.pdf](https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/fspec.pdf) : The functional specification presentation for review
+- [fspec.md](https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/fspec.md) : The functional specification markdown file for review
+- [fpsec.pdf](https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/fspec.pdf) : The functional specification presentation for review
 
 #Design Specification
 **Documents for Review:**  
-- [dspec.md](https://github.com/umass-cs-326/team-undefined/blob/master/docs/dspec/dspec.md) : The design specification markdown file for review
-- [dspec.pdf](https://github.com/umass-cs-326/team-undefined/blob/master/docs/dspec/dspec.pdf) : The functional specification presentation file for review
+- [dspec.md](https://github.com/gmdiaz/team-undefined/blob/master/docs/dspec/dspec.md) : The design specification markdown file for review
+- [dspec.pdf](https://github.com/gmdiaz/team-undefined/blob/master/docs/dspec/dspec.pdf) : The functional specification presentation file for review
 
 #Final Project
 **Folder for Review:**
-- [OOverlap](https://github.com/umass-cs-326/team-undefined/tree/master/OOverlap)
+- [OOverlap](https://github.com/gmdiaz/team-undefined/tree/master/OOverlap)
 
 **How to Run Site**
 ```
 #If you haven't cloned our repository
-$ git clone https://github.com/umass-cs-326/team-undefined.git  
+$ git clone https://github.com/gmdiaz/team-undefined.git  
 
 #Or if you haven't pulled newest code
 $ git pull
