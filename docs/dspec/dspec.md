@@ -1,4 +1,6 @@
-![Undefined Logo] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/UndefinedLogo.jpg)
+![Undefined Logo] (https://github.com/gmdiaz/team-undefined/blob/master/docs/UndefinedLogo.jpg)
+
+
 General Information:
 --------------------
 
@@ -19,7 +21,7 @@ Revision History:
 
 What is OOverlap?
 -----------------
-![Overlap Logo] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/proposal/OOverlap.png)  
+![Overlap Logo] (https://github.com/gmdiaz/team-undefined/blob/master/docs/proposal/OOverlap.png)  
 
 OOverlap is a scheduling application with the busy college student and professional in mind. Organize meetings with ease by sending out request. Both users will declare their free time and then OOverlap will do the rest - comparing the two schedules and alerting you of compatible meeting times! No more hassle about changing schedules, and no more frustrating back-and-forth emails. In order to enhance your scheduling experience, OOverlap connects with your GoogleCal so that you have your most up-to-date calendar. As you schedule and confirm meetings your calendar will update to reflect the newest information. 
 
@@ -61,7 +63,7 @@ External Libraries:
 
 Database: ER Diagram
 --------------------
-![Overlap Logo] (https://raw.githubusercontent.com/umass-cs-326/team-undefined/master/docs/dspec/ER%20diagram%20-%20ERD.jpeg)  
+![Overlap Logo] (https://raw.githubusercontent.com/gmdiaz/team-undefined/master/docs/dspec/ER%20diagram%20-%20ERD.jpeg)  
 
 Components: Bird's Eye View
 ---------------------------

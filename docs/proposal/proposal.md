@@ -4,7 +4,7 @@ Undefined
 Team: Undefined
 ---------------
 
-![Undefined Logo] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/UndefinedLogo.jpg)
+![Undefined Logo] (https://github.com/gmdiaz/team-undefined/blob/master/docs/UndefinedLogo.jpg)
 
 
 Meet the Team:
@@ -66,10 +66,10 @@ Product Description:
 [Authored by Santiago De La Torre, Giovanna Diaz on Oct 2, 2014]
 
 **The Old Logo - This was discarded because we ended up changing the name to have 2 O's (since a domain was available for that):  
-![Overlap Logo] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/proposal/Overlap.jpg)
+![Overlap Logo] (https://github.com/gmdiaz/team-undefined/blob/master/docs/proposal/Overlap.jpg)
 
 **The New Logo:**  
-![Overlap Logo] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/OOverlap_Logo.png)
+![Overlap Logo] (https://github.com/gmdiaz/team-undefined/blob/master/docs/OOverlap_Logo.png)
 
 Nowadays, there are many multi-platform applications that allow you to keep a record of your schedule. When two or more individuals want to meet for any purpose, they have to check their own schedule and present their free time to the people the want to meet with. Other applications simply allow you to share your calendar, thus forcing other people go over your schedule to figure out a meeting time. Going over a schedule every time you want to meet with someone makes the whole experience of meeting completely annoying and inefficient.  
 

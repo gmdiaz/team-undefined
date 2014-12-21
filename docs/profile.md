@@ -1,7 +1,7 @@
 Undefined
 =========
 
-![Undefined Logo] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/UndefinedLogo.jpg)
+![Undefined Logo] (https://github.com/gmdiaz/team-undefined/blob/master/docs/UndefinedLogo.jpg)
 
 What is the future of Tech? That answer is *Undefined*.
 

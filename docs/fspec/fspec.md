@@ -1,4 +1,4 @@
-![Undefined Logo] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/UndefinedLogo.jpg)
+![Undefined Logo] (https://github.com/gmdiaz/team-undefined/blob/master/docs/UndefinedLogo.jpg)
 
 General Information:
 --------------------
@@ -92,7 +92,7 @@ Non-Goals:
 Flowchart:
 ----------
   
-![Flowchart] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/images/FlowChart.jpg)
+![Flowchart] (https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/images/FlowChart.jpg)
 
 
 <p align = "right"><em>[Written by Thai Nguyen  - 10/15/2014]</em></p>
@@ -100,13 +100,13 @@ Flowchart:
 Wireframe Images:
 -----------------
 ###Profile: Homepage  
-![Homepage] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/images/home.png)  
+![Homepage] (https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/images/home.png)  
 Although represented as one page, this page will really be one long page that you can scroll through. The purpose of this homepage is to serve as welcome to the site. If you are new and do not know anything about what OOverlap does, this will be a clean and elegant introduction. The “Login In” and “Sign Up” buttons are in an easily accessible part of the screen and will float on top of the page while you scroll down so you don’t have to go all the way up to make an account.
 
 **Edit:** While the design of this has slightly changed for the final version, this is still an accurate description of the home page.
 
 ###Profile: Personal View  
-![Personal Profile] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/images/PersonalProfile.png)  
+![Personal Profile] (https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/images/PersonalProfile.png)  
 The user’s profile view meets their needs in the following ways:
 - Easy viewing of friends and groups
 - Quick view of their calendar to see any upcoming events
@@ -116,7 +116,7 @@ The user’s profile view meets their needs in the following ways:
 Simple, giving just the right amount of information!
 
 ###Profile: Personal View - Settings Page  
-![Personal Profile:Settings] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/images/user_settings.png)  
+![Personal Profile:Settings] (https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/images/user_settings.png)  
 All the settings the user could ever want - right there at a click of the mouse!  
   
 **Edit:** We have taken out some of these settings, such as...
@@ -126,7 +126,7 @@ All the settings the user could ever want - right there at a click of the mouse!
 - Location
 
 ###Profile: External View  
-![Personal Profile:External View] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/images/public_Profile.png)  
+![Personal Profile:External View] (https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/images/public_Profile.png)  
 As mentioned in our non-goals, we are not trying to create a social networking site. This means, when you look at another user’s profile, there really isn’t much that you need to see besides their:
 - Profile Picture
 - General Information
@@ -135,7 +135,7 @@ As mentioned in our non-goals, we are not trying to create a social networking s
 Where privacy is concerned, a user can eliminate their place of business, and their contact email from their public profile. When you click on another user’s profile picture, this information will pop up. This is also how your profile will be displayed to other users.
 
 ###Group: Moderator View  
-![Group Profile:Mod View] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/images/group_ModView.png)  
+![Group Profile:Mod View] (https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/images/group_ModView.png)  
 **Edit:** Please note, this moderator view was not ultimately created for our final version  
 
 Groups are for things such as a clubs, project teams, etc., where you will have recurring events. This is the moderator view. Moderators either were either the creator of the group / invited to become a moderator by a creator. This meets the moderator’s needs in the following ways:
@@ -145,14 +145,14 @@ Groups are for things such as a clubs, project teams, etc., where you will have 
 - Quick view of their group calendar
 
 ###Group: Member View  
-![Group Profile:Member View] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/images/group_UserView.png)  
+![Group Profile:Member View] (https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/images/group_UserView.png)  
 As a participant, the group is much more stripped down. The user can quickly see…
 - Moderators and other members of the group (they are in the same position as on the profile page for consistency across the site).
 - Upcoming events: Quick View - If you are doing a quick glance of the page, the upcoming events are posted right at the top so that users don’t have to search through the calendar
 - Full Calendar: Useful if the Members wants to see upcoming events in more detail / when past events were held
 
 ###Scheduling an Event  
-![Scheduling an Event] (https://github.com/umass-cs-326/team-undefined/blob/master/docs/fspec/images/scheduling_frames.png)  
+![Scheduling an Event] (https://github.com/gmdiaz/team-undefined/blob/master/docs/fspec/images/scheduling_frames.png)  
 **Edit:** The UI of this selection changed dramatically for the final version. Now, all you have to do is click the "Schedule an Event" button on your personal profile. This prompts a form which asks for...
 - Name of Event
 - Length of Event
